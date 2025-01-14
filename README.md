@@ -49,7 +49,7 @@ To run this project, ensure you have the following installed:
 ## Usage
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/Customer_Segmentation.git
+    git clone https://github.com/rkumarmeena064/Customer_Segmentation.git
     ```
 2. Navigate to the project folder:
     ```bash
